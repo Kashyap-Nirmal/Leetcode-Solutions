@@ -13,9 +13,9 @@
 <h2 align="center">👉 A Collection of Solutions to Leetcode Problems 👈</h2>
 </p>
 
-<br>- My ***C++*** solutions.
-<br>- I will be adding the solutions eventually as I go on.
-<br>- My solutions may **not always be optimal**.
+- My ***C++*** solutions.
+- I will be adding the solutions eventually as I go on.
+- My solutions may **not always be optimal**.
 
 ## `📋 Table of Contents 📋`
 
@@ -90,6 +90,6 @@
 <br>Creator [`Kashyap Nirmal`](https://github.com/Kashyap-Nirmal/)
 
 ## Note
-<br>- Some things added in the README.md file may be borrowed from some other repositories. 
-<br>- `Credit to the rightful owner.`
-<br>- The ***CPP code files*** are ***purely my submissions***. Until unless I needed to look for a ***solution from Internet source*** or ask for ***help from few of my friends***.
+- Some things added in the README.md file may be borrowed from some other repositories. 
+- `Credit to the rightful owner.`
+- The ***CPP code files*** are ***purely my submissions***. Until unless I needed to look for a ***solution from Internet source*** or ask for ***help from few of my friends***.
