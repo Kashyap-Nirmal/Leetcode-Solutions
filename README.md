@@ -39,6 +39,7 @@
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| [C++](./73.%20Set%20Matrix%20Zeroes.cpp)|Medium||
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [C++](./74.%20Search%20a%202D%20Matrix.cpp)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)| [C++](./75.%20Sort%20Colors.cpp)|Medium|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [C++](./83.%20Remove%20Duplicates%20from%20Sorted%20List.cpp)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [C++](./88.%20Merge%20Sorted%20Array.cpp)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [C++](./118.%20Pascal's%20Triangle.cpp)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [C++](./119.%20Pascal's%20Triangle%20II.cpp)|Easy|
@@ -82,11 +83,13 @@
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)| [C++](./1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.cpp) |Easy|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)| [C++](./1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.cpp) |Easy|
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)| [C++](./1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.cpp) |Easy|
+|1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)| [C++](./1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays.cpp)|Easy|
 |1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)| [C++](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.cpp) |Easy|
 |1869|[Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [C++](./1869.%20Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros.cpp)|Easy|
 |1952|[Three Divisors](https://leetcode.com/problems/three-divisors/)| [C++](./1952.%20Three%20Divisors.cpp) |Easy|
 |1979|[Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)| [C++](./1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array.cpp) |Easy|
 |2022|[Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)| [C++](./2022.%20Convert%201D%20Array%20Into%202D%20Array.cpp) |Easy|
+|2037|[Minimum Number of Moves to Seat Everyone]https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)|[C++](./2037.%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone.cpp)|Easy|
 
 <br>Creator [`Kashyap Nirmal`](https://github.com/Kashyap-Nirmal/)
 
