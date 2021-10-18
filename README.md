@@ -89,7 +89,7 @@
 |1952|[Three Divisors](https://leetcode.com/problems/three-divisors/)| [C++](./1952.%20Three%20Divisors.cpp) |Easy|
 |1979|[Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)| [C++](./1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array.cpp) |Easy|
 |2022|[Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)| [C++](./2022.%20Convert%201D%20Array%20Into%202D%20Array.cpp) |Easy|
-|2037|[Minimum Number of Moves to Seat Everyone]https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)|[C++](./2037.%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone.cpp)|Easy|
+|2037|[Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)|[C++](./2037.%20Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone.cpp)|Easy|
 
 <br>Creator [`Kashyap Nirmal`](https://github.com/Kashyap-Nirmal/)
 
