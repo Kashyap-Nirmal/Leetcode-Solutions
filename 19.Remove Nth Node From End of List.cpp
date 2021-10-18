@@ -1,6 +1,9 @@
 /*
+	https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+	Done
+	111021
 */
-/**
+/*
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
@@ -9,9 +12,6 @@
  *     ListNode(int x) : val(x), next(nullptr) {}
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
-	https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-	Done
-	111021
 */
 class Solution {
 public:
