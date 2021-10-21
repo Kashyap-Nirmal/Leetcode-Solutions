@@ -73,9 +73,12 @@
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)| [C++](./448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp) |Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| [C++](./485.%20Max%20Consecutive%20Ones.cpp) |Easy|
 |504|[Base 7](https://leetcode.com/problems/base-7/)| [C++](./504.%20Base%207.cpp) |Easy|
+|507|[Perfect Number](https://leetcode.com/problems/perfect-number/)| [C++](./507.%20Perfect%20Number.cpp)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C++](./509.%20Fibonacci%20Number.cpp)|Easy|
+|551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)| [C++](./551.%20Student%20Attendance%20Record%20I.cpp)|Easy|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [C++](./557.%20Reverse%20Words%20in%20a%20String%20III.cpp) |Easy|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [C++](./566.%20Reshape%20the%20Matrix.cpp) |Easy|
+|728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)| [C++](./728.%20Self%20Dividing%20Numbers.cpp)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](./876.%20Middle%20of%20the%20Linked%20List.cpp)|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [C++](./941.%20Valid%20Mountain%20Array.cpp)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./977.%20Squares%20of%20a%20Sorted%20Array.cpp)|Easy|
@@ -83,6 +86,7 @@
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)| [C++](./1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.cpp) |Easy|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)| [C++](./1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.cpp) |Easy|
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)| [C++](./1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.cpp) |Easy|
+|1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)| [C++](./1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp)|Easy|
 |1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)| [C++](./1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays.cpp)|Easy|
 |1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)| [C++](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.cpp) |Easy|
 |1869|[Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [C++](./1869.%20Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros.cpp)|Easy|
