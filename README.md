@@ -30,6 +30,7 @@
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](./19.Remove%20Nth%20Node%20From%20End%20of%20List.cpp)|Medium||
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)|Easy|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [C++](./31.%20Next%20Permutation.cpp)|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [C++](./35.%20Search%20Insert%20Position.cpp)|Easy|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](./48.%20Rotate%20Image.cpp)|Medium||
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)| [C++](./50.%20Pow(x,%20n).cpp)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [C++](./53.%20Maximum%20Subarray.cpp)|Easy|
@@ -52,6 +53,7 @@
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [C++](./215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [C++](./217.%20Contains%20Duplicate.cpp)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [C++](./231.%20Power%20of%20Two.cpp)|Easy|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [C++](./234.%20Palindrome%20Linked%20List.cpp)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [C++](./237.%20Delete%20Node%20in%20a%20Linked%20List.cpp)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| [C++](./238.%20Product%20of%20Array%20Except%20Self.cpp)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [C++](./242.%20Valid%20Anagram.cpp)|Easy|
@@ -68,6 +70,7 @@
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](./383.%20Ransom%20Note.cpp)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [C++]() |Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./389.%20Find%20the%20Difference.cpp)|Easy|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [C++](./392.%20Is%20Subsequence.cpp)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C++](./412.%20Fizz%20Buzz.cpp)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)| [C++](./442.%20Find%20All%20Duplicates%20in%20an%20Array.cpp) |Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)| [C++](./448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp) |Easy|
@@ -80,6 +83,7 @@
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [C++](./566.%20Reshape%20the%20Matrix.cpp) |Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)| [C++](./728.%20Self%20Dividing%20Numbers.cpp)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](./876.%20Middle%20of%20the%20Linked%20List.cpp)|Easy|
+|925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)| [C++](./925.%20Long%20Pressed%20Name.cpp)|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [C++](./941.%20Valid%20Mountain%20Array.cpp)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./977.%20Squares%20of%20a%20Sorted%20Array.cpp)|Easy|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)| [C++](./1137.%20N-th%20Tribonacci%20Number.cpp) |Easy|
