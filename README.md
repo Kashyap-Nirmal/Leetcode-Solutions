@@ -35,6 +35,7 @@
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)| [C++](./50.%20Pow(x,%20n).cpp)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [C++](./53.%20Maximum%20Subarray.cpp)|Easy|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [C++](./56.%20Merge%20Intervals.cpp)|Medium|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/)| [C++](./58.%20Length%20of%20Last%20Word.cpp)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| [C++](./66.%20Plus%20One.cpp)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](./69.%20Sqrt(x).cpp)|Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| [C++](./73.%20Set%20Matrix%20Zeroes.cpp)|Medium||
