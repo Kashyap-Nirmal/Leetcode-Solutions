@@ -93,7 +93,7 @@
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)| [C++](./1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.cpp) |Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)| [C++](./1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp)|Easy|
 |1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)| [C++](./1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays.cpp)|Easy|
-|1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)| [C++](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.cpp) |Easy|
+|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/submissions/)| [C++](./1480.%20Running%20Sum%20of%201d%20Array.cpp)|Easy||1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)| [C++](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.cpp) |Easy|
 |1816|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)| [C++](./1816.%20Truncate%20Sentence.cpp)|Easy|
 |1869|[Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [C++](./1869.%20Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros.cpp)|Easy|
 |1952|[Three Divisors](https://leetcode.com/problems/three-divisors/)| [C++](./1952.%20Three%20Divisors.cpp) |Easy|
