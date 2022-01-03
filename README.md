@@ -67,6 +67,7 @@
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [C++](./342.%20Power%20of%20Four.cpp)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [C++](./344.%20Reverse%20String.cpp) |Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./349.%20Intersection%20of%20Two%20Arrays.cpp)|Easy|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [C++](./350.%20Intersection%20of%20Two%20Arrays%20II.cpp)|Easy|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| [C++](./374.%20Guess%20Number%20Higher%20or%20Lower.cpp) |Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](./383.%20Ransom%20Note.cpp)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [C++]() |Easy|
