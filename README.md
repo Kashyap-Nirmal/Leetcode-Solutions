@@ -28,6 +28,7 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](./13.%20Roman%20to%20Integer.cpp)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](./14.%20Longest%20Common%20Prefix.cpp)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](./19.Remove%20Nth%20Node%20From%20End%20of%20List.cpp)|Medium||
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./20.%20Valid%20Parentheses.cpp)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)|Easy|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [C++](./31.%20Next%20Permutation.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [C++](./35.%20Search%20Insert%20Position.cpp)|Easy|
