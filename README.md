@@ -46,9 +46,11 @@
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [C++](./88.%20Merge%20Sorted%20Array.cpp)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [C++](./118.%20Pascal's%20Triangle.cpp)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [C++](./119.%20Pascal's%20Triangle%20II.cpp)|Easy|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [C++](./125.%20Valid%20Palindrome.cpp)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)| [C++](./136.%20Single%20Number.cpp)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./168.%20Excel%20Sheet%20Column%20Title.cpp)|Easy|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [C++](./171.%20Excel%20Sheet%20Column%20Number.cpp)|Easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [C++](./172.%20Factorial%20Trailing%20Zeroes.cpp)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [C++](./189.%20Rotate%20Array.cpp)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)| [C++](./202.%20Happy%20Number.cpp)|Easy|
