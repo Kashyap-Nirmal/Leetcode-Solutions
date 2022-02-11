@@ -30,6 +30,7 @@
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](./19.Remove%20Nth%20Node%20From%20End%20of%20List.cpp)|Medium||
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./20.%20Valid%20Parentheses.cpp)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./27.%20Remove%20Element.cpp)|Easy|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [C++](./31.%20Next%20Permutation.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [C++](./35.%20Search%20Insert%20Position.cpp)|Easy|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](./48.%20Rotate%20Image.cpp)|Medium||
@@ -86,6 +87,7 @@
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)| [C++](./551.%20Student%20Attendance%20Record%20I.cpp)|Easy|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| [C++](./557.%20Reverse%20Words%20in%20a%20String%20III.cpp) |Easy|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [C++](./566.%20Reshape%20the%20Matrix.cpp) |Easy|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)| [C++](./704.%20Binary%20Search.cpp)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)| [C++](./728.%20Self%20Dividing%20Numbers.cpp)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](./876.%20Middle%20of%20the%20Linked%20List.cpp)|Easy|
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)| [C++](./925.%20Long%20Pressed%20Name.cpp)|Easy|
