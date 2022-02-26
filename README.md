@@ -55,6 +55,7 @@
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [C++](./172.%20Factorial%20Trailing%20Zeroes.cpp)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [C++](./189.%20Rotate%20Array.cpp)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)| [C++](./202.%20Happy%20Number.cpp)|Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [C++](./206.%20Reverse%20Linked%20List.cpp)|Easy|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [C++](./215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [C++](./217.%20Contains%20Duplicate.cpp)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [C++](./231.%20Power%20of%20Two.cpp)|Easy|
