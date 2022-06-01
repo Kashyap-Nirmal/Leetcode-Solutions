@@ -31,6 +31,7 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./20.%20Valid%20Parentheses.cpp)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./27.%20Remove%20Element.cpp)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [C++](./28.%20Implement%20strStr().cpp)|Easy|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [C++](./31.%20Next%20Permutation.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [C++](./35.%20Search%20Insert%20Position.cpp)|Easy|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](./48.%20Rotate%20Image.cpp)|Medium||
