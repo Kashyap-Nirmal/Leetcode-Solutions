@@ -28,7 +28,8 @@
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](./383.%20Ransom%20Note.cpp)|[Go]()|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](./876.%20Middle%20of%20the%20Linked%20List.cpp)|[Go]()|Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)| [C++](./1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp)|[Go]()|Easy|
-|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/submissions/)| [C++](./1480.%20Running%20Sum%20of%201d%20Array.cpp)|Easy||1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)| [C++](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.cpp)|[Go]()|Easy|
+|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/submissions/)| [C++](./1480.%20Running%20Sum%20of%201d%20Array.cpp)|[Go]()|Easy|
+|1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)| [C++](./1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.cpp)|[Go]()|Easy|
 |1816|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)| [C++](./1816.%20Truncate%20Sentence.cpp)|[Go]()|Easy|
 |1920|[Building Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[C++]()|[Go]()|Easy|
 |2285|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[C++]()|[Go]()|Easy|
