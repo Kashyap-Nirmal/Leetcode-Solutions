@@ -14,7 +14,7 @@
 <h2 align="center">👉 A Collection of Solutions to Leetcode Problems 👈</h2>
 </p>
 
-- My ***C++ as well as Go*** solutions.
+- My ***C++*** as well as ***Go*** solutions.
 - I will be adding the solutions eventually as I go on.
 - My solutions may **not always be optimal**.
 - I am also mentioning the Go concepts used in these problems along with the basic syntax. 
