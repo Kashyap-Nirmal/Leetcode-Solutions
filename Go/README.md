@@ -14,7 +14,7 @@
 <h2 align="center">👉 A Collection of Solutions to Leetcode Problems 👈</h2>
 </p>
 
-- My ***C++*** as well as ***Go*** solutions.
+- My ***C++ as well as Go*** solutions.
 - I will be adding the solutions eventually as I go on.
 - My solutions may **not always be optimal**.
 - I am also mentioning the Go concepts used in these problems along with the basic syntax. 
@@ -39,7 +39,7 @@ Duration ` Aug 2022 - Present `
 |1920|[Building Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[C++]()|[Go]()|Easy|
 |2285|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[C++]()|[Go]()|Easy|
 
-## `Notes and Basic go syntaxes`
+#Notes and Basic go syntaxes
 
 ---
 
@@ -146,4 +146,4 @@ Topics: Array, String, Empty Slice, If-else
 ## Note
 - Some things added in the README.md file may be borrowed from some other repositories. 
 - `Credit to the rightful owner.`
-- The ***Code files*** are ***purely my submissions***. Until unless I needed to look for a ***solution from Internet source*** or ask for ***help from few of my friends***.
+- The ***Go code files*** are ***purely my submissions***. Until unless I needed to look for a ***solution from Internet source*** or ask for ***help from few of my friends***.
